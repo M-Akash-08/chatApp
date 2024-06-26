@@ -11,7 +11,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 **Database:** Mongo DB
   
-**demo:**
+**demo:**https://connectchatapp.onrender.com
 
 
 Go to the project directory
